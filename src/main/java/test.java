@@ -24,7 +24,7 @@ public class test {
                 break;
             }
             if(anInt==num){
-                System.out.println("恭喜清心成功");
+                System.out.println("恭喜阿清成功");
             }
         }
     }
